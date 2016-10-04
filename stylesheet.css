@@ -1,0 +1,87 @@
+@import url(//db.onlinewebfonts.com/c/bc24cbb66641cc2c8a9c5434a5ba136f?family=Gunny+Rewritten);
+
+@font-face {font-family: "Gunny Rewritten";
+    src: url("//db.onlinewebfonts.com/t/bc24cbb66641cc2c8a9c5434a5ba136f.eot");
+    src: url("//db.onlinewebfonts.com/t/bc24cbb66641cc2c8a9c5434a5ba136f.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/bc24cbb66641cc2c8a9c5434a5ba136f.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/bc24cbb66641cc2c8a9c5434a5ba136f.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/bc24cbb66641cc2c8a9c5434a5ba136f.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/bc24cbb66641cc2c8a9c5434a5ba136f.svg#Gunny Rewritten") format("svg");
+}
+
+.container-fluid {
+	padding-top: 2em;
+	padding-bottom: 2em;
+	padding-right: 2em;
+	padding-left: 2em;
+}
+
+.margin {
+	margin-bottom: 2em;
+}
+
+.bg-1 {
+	color: white;
+}
+
+.bg-1 {
+	background-image: url(img/bg1.png);
+	background-color: #424242; /* Grey */
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg-1 img {
+	width: 10em;
+}
+
+.bg-1 h3 {
+	font-family: 'Gunny Rewritten';
+	font-size: 6em;
+}
+.bg-1 h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+}
+
+.bg-2 {
+	color: black;
+	background-color: #FAFAFA; /* Medium white */
+}
+
+.bg-3 {
+	color: white;
+	background-color: #303030; /* Medium Black */
+}
+
+.bg-4 {
+	color: black;
+	background-color: #FAFAFA;
+}
+
+.bg-5 {
+	color: white;
+	background-color: #303030;
+}
+
+.navbar {
+	padding-top: 1em;
+	padding-bottom: 1em;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+	letter-spacing: 0.5em;	
+}
+
+.navbar-brand {
+	font-family: 'Gunny Rewritten';
+	font-size: 6em;
+}
+
+.navbar-right {
+	font-size: 1em;
+}
+
+.col-sm-4 {
+	margin-bottom: 1em;
+}
